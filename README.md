@@ -1,3 +1,6 @@
+#link para a aplicação
+- https://trabalho-web-marcio.vercel.app/
+
 # 🧩 Trabalho Web - Pokédex React
 
 Este projeto foi desenvolvido como trabalho prático da disciplina de Desenvolvimento Web no 5º semestre do curso de Engenharia de Software da UNIFACEF.  
