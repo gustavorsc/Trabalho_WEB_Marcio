@@ -1,12 +1,42 @@
-# React + Vite
+# 🧩 Trabalho Web - Pokédex React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido como trabalho prático da disciplina de Desenvolvimento Web no 5º semestre do curso de Engenharia de Software da UNIFACEF.  
+A aplicação simula uma Pokédex online, permitindo visualizar informações de Pokémons consumidas diretamente da API pública [PokeAPI](https://pokeapi.co/).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📚 Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+- **[React](https://reactjs.org/)** - Biblioteca JavaScript para criação de interfaces de usuário.
+- **[Vite](https://vitejs.dev/)** - Build tool para desenvolvimento rápido de aplicações React.
+- **[React Router DOM](https://reactrouter.com/)** - Biblioteca de roteamento para React.
+- **[CSS Puro](https://developer.mozilla.org/en-US/docs/Web/CSS)** - Estilização customizada sem frameworks externos.
+- **[PokeAPI](https://pokeapi.co/)** - API pública de dados sobre Pokémons.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Imagens do Projeto
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+---
+
+## 🎯 Funcionalidades
+
+- ✅ **Listagem de Pokémons**: Buscando informações diretamente da PokeAPI.
+- ✅ **Página de Detalhes Dinâmica**: Cada Pokémon possui uma página própria utilizando rotas dinâmicas.
+- ✅ **Sistema de Busca (SearchBar)**: Pesquisa Pokémons por nome em tempo real.
+- ✅ **Tema Dinâmico por Tipo**: A cor de fundo da caixa do Pokémon muda conforme seu tipo principal (ex.: fogo, água, grama).
+- ✅ **Página Sobre**: Explicando sobre o projeto e a tecnologia utilizada.
+- ✅ **Design Responsivo**: Adaptado para diferentes tamanhos de tela.
+- ✅ **Aplicação Online**: Publicada e acessível por link (em breve).
+
+---
+
+## 🚀 Como Rodar o Projeto Localmente
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/gustavorsc/Trabalho_WEB_Marcio.git
